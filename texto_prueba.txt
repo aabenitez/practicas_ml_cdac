@@ -1,1 +1,2 @@
 Este es un texto de prueba.
+Esta sección se modificó desde la interfaz web del github.com
